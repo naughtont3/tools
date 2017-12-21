@@ -9,7 +9,7 @@ LLVM_VERSION="release_50"
 LLVM_TYPE=release
 
 # XXX: Edit here
-llvmdevel_basedir="/ccs/home/naughton/projects.summitdev/ompi-ecp/install/llvm/$LLVM_VERSION/install/$LLVM_TYPE"
+llvmdevel_basedir="/ccs/home/naughton/projects.summitdev/ompi-ecp/install/llvm/$LLVM_VERSION/$LLVM_TYPE"
 
 llvmdevel_lib_path="${llvmdevel_basedir}/lib"
 llvmdevel_bin_path="${llvmdevel_basedir}/bin"
